@@ -1,3 +1,3 @@
-# hello-world
+# Try
 
-Let's Update my readme!!
+This project is just for practicing with github
